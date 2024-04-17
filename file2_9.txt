@@ -1,6 +1,6 @@
 hello git
-<<<<<<< HEAD
 second
 =======
 iwanttoexplore
->>>>>>> 8448194 (2번째 commit)
+=======
+second
